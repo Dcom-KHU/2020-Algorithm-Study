@@ -24,3 +24,7 @@
 | 08  | Divide and Conquer  |                  Divide & Conquer, Tower of Hanoi                  | [Link](https://github.com/Dcom-KHU/2020-Algorithm-Study/tree/master/Lecture%20Note/08) |
 | 09  |        Sort         |                  Sort, Pair, Struct, Stable Sort                   | [Link](https://github.com/Dcom-KHU/2020-Algorithm-Study/tree/master/Lecture%20Note/09) |
 | 10  |       Search        |             Linear Search, Binary Search, Hash Search              | [Link](https://github.com/Dcom-KHU/2020-Algorithm-Study/tree/master/Lecture%20Note/10) |
+
+## Contact
+
+Yong Woo Song, syw5141@khu.ac.kr
