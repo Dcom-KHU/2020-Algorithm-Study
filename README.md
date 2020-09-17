@@ -32,4 +32,4 @@
 ## Contact
 
 - Yongwoo Song, syw5141@khu.ac.kr, [Github](https://github.com/FacerAin)
-- Hyunsu Son
+- Hyunsu Son, hgsu0806@khu.ac.kr
