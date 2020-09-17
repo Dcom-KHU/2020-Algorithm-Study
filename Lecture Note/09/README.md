@@ -2,6 +2,8 @@
 
 C++에서 여러 정렬(Sort) 기법들을 알아봅시다.
 
+[Lecture 09/10 문제집](https://www.acmicpc.net/group/workbook/view/8351/25085)
+
 ## 수록 문제
 
 - [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751)

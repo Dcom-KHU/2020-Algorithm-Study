@@ -2,6 +2,8 @@
 
 다이나믹 프로그래밍(DP)를 배웁니다.
 
+[Lecture 06 문제집](https://www.acmicpc.net/group/workbook/view/8351/24664)
+
 ## 수록 문제
 
 - [2748번 피보나치 수 2](https://www.acmicpc.net/problem/2748)

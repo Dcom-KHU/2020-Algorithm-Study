@@ -2,6 +2,8 @@
 
 C++에서 문자열을 자유자재로 다뤄봅시다.
 
+[Lecture 03 문제집](https://www.acmicpc.net/group/workbook/view/8351/24208)
+
 ## 수록 문제
 
 - [11654번 아스키 코드](https://www.acmicpc.net/problem/11654)

@@ -2,6 +2,8 @@
 
 알고리즘 문제 해결 과정과 알고리즘 문제에서 등장하는 다양한 입출력 유형에 대해 알아봅시다.
 
+[Lecture 01 문제집](https://www.acmicpc.net/group/workbook/view/8351/24206)
+
 ## 수록 문제
 
 - [1000번 A+B](https://www.acmicpc.net/problem/1000)
