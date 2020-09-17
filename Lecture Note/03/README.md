@@ -2,7 +2,7 @@
 
 C++에서 문자열을 자유자재로 다뤄봅시다.
 
-[Lecture 03 문제집](https://www.acmicpc.net/group/workbook/view/8351/24208)
+[Lecture 03 문제집](https://www.acmicpc.net/workbook/view/5636)
 
 ## 수록 문제
 

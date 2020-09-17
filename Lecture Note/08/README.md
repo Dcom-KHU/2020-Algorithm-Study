@@ -2,7 +2,7 @@
 
 분할 정복법에 대해 알아봅시다.
 
-[Lecture 08 문제집](https://www.acmicpc.net/group/workbook/view/8351/25084)
+[Lecture 08 문제집](https://www.acmicpc.net/workbook/view/5641)
 
 ## 수록 문제
 

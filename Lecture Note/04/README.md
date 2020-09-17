@@ -2,7 +2,7 @@
 
 자료구조 중 하나인 그래프의 용어와 종류, 구현하는 방법에 대해 알아봅시다. 그래프의 탐색 방법인 BFS와 DFS도 알아봅니다.
 
-[Lecture 04 문제집](https://www.acmicpc.net/group/workbook/view/8351/24211)
+[Lecture 04 문제집](https://www.acmicpc.net/workbook/view/5638)
 
 ## 수록 문제
 

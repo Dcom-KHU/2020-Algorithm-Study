@@ -2,7 +2,7 @@
 
 다이나믹 프로그래밍(DP)를 배웁니다.
 
-[Lecture 06 문제집](https://www.acmicpc.net/group/workbook/view/8351/24664)
+[Lecture 06 문제집](https://www.acmicpc.net/workbook/view/5639)
 
 ## 수록 문제
 
