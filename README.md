@@ -1,13 +1,17 @@
 # 2020-Algorithm-Study
 
+## Introduction
+
+알고리즘 공부를 시작하는 사람들을 위한 문서입니다. 단원별 강의 자료와 추천 문제가 수록되어있습니다.
+
 ## Goal
 
 문제 해결 능력 향상과 코딩 테스트(Samsung SW 역량테스트, KAKAO Coding Test등)의 대비를 목적으로 합니다.
 
 ## Requirments
 
-본 스터디에서는 C++를 바탕으로 학습합니다. 따라서 C++의 기초 내용(반복문,조건문,함수)의 이해가 필요합니다.  
-하지만 타 언어(C/JAVA)로 시작하셔도 무방합니다.
+본 자료는 C++를 바탕으로 작성되었습니다. 따라서 C++의 기초 내용(반복문,조건문,함수)의 이해가 필요합니다.  
+하지만 타 언어(C/JAVA)로 진행하셔도 무방합니다.
 
 ## Curriculum
 
@@ -27,4 +31,4 @@
 
 ## Contact
 
-Yong Woo Song, syw5141@khu.ac.kr
+Yongwoo Song, syw5141@khu.ac.kr, [Github](https://github.com/FacerAin)
